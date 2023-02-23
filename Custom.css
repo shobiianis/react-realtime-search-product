@@ -1,0 +1,26 @@
+.border{
+    
+    width: 25%;
+    height: 750px;
+    margin:5px;
+    border: 1px solid rgb(240, 235, 235);
+    box-shadow: 1px 1px 1px 1px rgb(219, 215, 215);
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.extraWidth{
+    width: 50%;
+    margin-left: 10%;
+    height: 40px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.borderLeft{
+    margin-left:10% ;
+}
